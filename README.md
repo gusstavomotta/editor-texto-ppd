@@ -1,4 +1,4 @@
-##Editor de texto -- PPD
+# Editor de texto -- PPD
 
 Este projeto consiste no desenvolvimento de um editor de texto colaborativo utilizando C++, com suporte a edição simultânea por múltiplos usuários, inspirado em ferramentas como Google Docs.
 
